@@ -2,7 +2,7 @@
 
 I am passionate Software Engineer and ready to learn
 
-Skills: JAVA / C++ / PYTHON / LINUX
+Skills: JAVA / C++ / GO / LINUX
 
 - 🔭 I’m currently working on managep project 
 - 🌱 I’m currently learning Backend Development 

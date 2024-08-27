@@ -5,7 +5,7 @@ I am passionate Software Engineer and ready to learn
 
 Skills: JAVA / C++ / GOLANG / KALI LINUX
 
-- 🔭 I’m currently working on pastebin project 
+- 🔭 I’m currently working on online store project 
 - 🌱 I’m currently learning Backend Development 
 - 📫 How to reach me: by email eseninmukhit@gmail.com or by telegram : @muhits 
 
